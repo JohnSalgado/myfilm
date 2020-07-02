@@ -205,6 +205,7 @@ const styles = StyleSheet.create({
     borderTopLeftRadius: 20,
     flexDirection: 'row',
     justifyContent: 'space-around',
+    padding: 10,
   },
   movieTitle:{
     paddingLeft: 15,
